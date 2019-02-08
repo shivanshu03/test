@@ -1,2 +1,3 @@
 feature
-testing feature
+testing feature1
+testing feature2
